@@ -1,3 +1,7 @@
+# By Simon Boak, 2025
+# Based on the original C version at https://gist.github.com/zeroeth/c0b83e7a856d01c9db46ee6d414a1654
+# This file is also in the public domain
+
 import time
 
 rnum = 0xBAD
